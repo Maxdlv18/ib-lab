@@ -1,1 +1,12 @@
+#Objectives:
+#• Sign Up:
+#• Allow a user to ”create an account” by providing a full name and password.
+#• The user must enter the password twice when creating account for verification.
+#• Store the user information to check at Log-In.
+#• Log-In:
+#• Query the user for a username and password and verify the information is
+#correct according to the ”accounts database”.
+#• If the user attempts to login 3 times with incorrect credentials, then the
+#program will display a message and close.
+#• After logging in, display the interface for the right type of account.
 
