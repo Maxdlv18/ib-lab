@@ -1,3 +1,5 @@
+type = input("Are you a Student, Teacher, or Staff? ")
+
 fullName = input("What is your full name: ")
 password = input("What is your password: ")
 
