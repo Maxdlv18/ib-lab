@@ -1,1 +1,16 @@
+fullName = input("What is your full name: ")
+password = input("What is your password: ")
 
+attempts = 0
+while attempts < 3:
+  checkFullName = input("Enter your full name: ")
+  checkPassword = input("Enter a password: ")
+  
+  if checkFullName == fullName:
+    break
+  else:
+    attempts = attempts + 1
+  if checkFullName == fullName:
+      break
+  else:
+    attempts = attempts + 1  
